@@ -1,0 +1,70 @@
+
+
+h4{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+}
+
+a.link{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-decoration: underline;
+    color: rgb(73, 73, 238);
+}
+
+b{
+    font-size: 30px;
+}
+
+iframe.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+div.left{
+    padding-left: 2cm;
+}
+
+.contactme{
+    font-size: 24px;
+    font-weight: bold;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+.emailbold{
+    font-weight: bold;
+}
+
+.whitecontact{
+    color: white;
+}
+
+.center{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.mid{
+    text-align: center;
+}
+
+.catalina{
+    position: relative;
+    left: 3rem;
+}
+
+.fusing{
+    position: relative;
+    left: 1.5rem;
+}
+
+.hawaii{
+    position: relative;
+    left: 3rem;
+}
+
+.sanfran{
+    position: relative;
+    left: 1.5rem;
+}
